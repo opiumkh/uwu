@@ -3,7 +3,9 @@
 ## Este es un subtitulo
 
 <h1>tamo en conflicto</h1>
-<h2>Esto es un subtitulo</h2>
+<h2>^.^</h2>
+<h3>Esto es un subtitulo</h3>
+<h4>aaaaaaaaa</h4>
 
 Esto es un texto, asjhfalskfjakf.
 ...
